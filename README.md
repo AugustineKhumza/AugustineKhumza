@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Augustine Khumalo</h1>
 <h3 align="center">Android Dev (Kotlin) | Data Enthusiast | Open to Challenges</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://wolfr.am/n4R1nqH1”>
+<img align=“right” alt=“Coding” width=“400” src=“https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=augustinekhumza&label=Profile%20views&color=0e75b6&style=flat" alt="augustinekhumza" /> </p>
 
