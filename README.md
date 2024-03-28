@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](2000_600px.gif)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://coderkube.com/wp-content/uploads/2017/10/android-app-development-banner-300x94.png)
 <h1 align="center">Hi 👋, I'm Augustine Khumalo</h1>
 <h3 align="center">Android Dev (Kotlin) | Data Enthusiast | Open to Challenges</h3>
 <img align=“right” alt=“Coding” width=“400” src=“https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif”>
