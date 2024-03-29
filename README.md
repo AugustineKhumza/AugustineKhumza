@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Augustine Khumalo</h1>
 <h3 align="center">Android Dev (Kotlin) | Data Enthusiast | Open to Challenges</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.shopify.com/s/files/1/0070/5901/3716/files/coding_background.jpg?v=1688538955”>
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/representations-user-experience-interface-design_23-2150104485.jpg?w=740&t=st=1711689497~exp=1711690097~hmac=ac099dbc340db4b3c226970068c8a51418ce58d43bfb3b045b3aaa6dd483a974">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=augustinekhumza&label=Profile%20views&color=0e75b6&style=flat" alt="augustinekhumza" /> </p>
 
