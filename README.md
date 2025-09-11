@@ -1,18 +1,22 @@
 <h1 align="center">Hi 👋, I'm Augustine Khumalo</h1>
-<h3 align="center">Full Stack & AI/ML Engineer | Data Enthusiast | Android Dev</h3>
+<h3 align="center">Bridging Technology and Modern Life with AI & Data Science</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/representations-user-experience-interface-design_23-2150104485.jpg?w=740&t=st=1711689497~exp=1711690097~hmac=ac099dbc340db4b3c226970068c8a51418ce58d43bfb3b045b3aaa6dd483a974">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=augustinekhumza&label=Profile%20views&color=0e75b6&style=flat" alt="augustinekhumza" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=augustinekhumza" alt="augustinekhumza" /></a> </p>
 
-🌱 I'm currently focused on AI/ML, Python, and Full Stack development with Vue.js & C#.NET.
+🌱 I'm currently focused on Data Science, Data Engineering, Machine Learning, and Artificial Intelligence.
 
-👯 I'm looking to collaborate on open-source projects related to AI, machine learning, or mobile development.
+👯 I'm looking to collaborate on projects that apply data science and AI to solve real-world problems.
 
-💬 Ask me about Android (Kotlin), Data Analysis (Julia, SQL), or Full Stack Development.
+💬 Ask me about AI, ML, Data Analysis (Julia, SQL), or Software Engineering.
 
 📫 How to reach me: augustinekhumalo96@gmail.com
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I enjoy learning about the history of technology and its impact on society.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
